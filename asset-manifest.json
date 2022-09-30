@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TT/static/css/main.075de747.css",
+    "main.js": "/TT/static/js/main.6d52237f.js",
+    "static/media/Video3.mp4": "/TT/static/media/Video3.43f06cbaf699f27e9e70.mp4",
+    "static/media/Video2.mp4": "/TT/static/media/Video2.44f60be285443972fa40.mp4",
+    "static/media/Video1.mp4": "/TT/static/media/Video1.f426d1f1d6a330678d14.mp4",
+    "static/media/Abobut_Me.JPG": "/TT/static/media/Abobut_Me.1ff3ad771972bd550570.JPG",
+    "static/media/polygon-scatter-haikei.svg": "/TT/static/media/polygon-scatter-haikei.6f7f9ab0ce2d4a2939a3.svg",
+    "index.html": "/TT/index.html",
+    "main.075de747.css.map": "/TT/static/css/main.075de747.css.map",
+    "main.6d52237f.js.map": "/TT/static/js/main.6d52237f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.075de747.css",
+    "static/js/main.6d52237f.js"
+  ]
+}
