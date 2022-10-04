@@ -22,7 +22,7 @@ const contacts = () => {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4 id='phone__number'>Phone Number</h4>
             <h5 id='social__dissapear'>206-(883)-0263</h5>
-            <a href="thienansjstar@gmail.com" className='send__message' target='__blank'>Send a message</a>
+            <a href="iMessage://2068830263">Send a message</a>
           </article>
          
         </div>

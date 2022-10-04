@@ -44,7 +44,7 @@ const about = () => {
       Hello! 
       I am a student at the University of Washington majoring in computer
       science. I hope to change the world with techology. I want to diversify 
-      the the tech-industry by bringing people from all backgrounds. I enjoy coding 
+      the tech-industry by bringing people from all backgrounds. I enjoy coding 
       especially developing video games. I have been coding for 4+ years and have 
       knowledge of many different languages and frameworks.
       </p>

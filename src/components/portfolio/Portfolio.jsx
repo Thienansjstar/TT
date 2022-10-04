@@ -24,7 +24,7 @@ const portfolio = () => {
             <h4>C#, Unity Engine</h4>
            <div className='portfolio__link'>
             <a href="https://github.com/Thienansjstar/Jump-man" className='btn' target='__blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'
+            <a href=" https://drive.google.com/file/d/1t2sQbIclPtLFTxqrBFk-nF8CRK-yisS5/view?usp=sharing" className='btn btn-primary'
              target='__blank'>live demo</a>
             </div>
         </article>
@@ -34,12 +34,12 @@ const portfolio = () => {
           
           </div>
             <h3>Calcurush</h3>
-            <h4>React, Phaser, Heroku, </h4>
+            <h4>React, Phaser, Heroku,  password CalcProj22 </h4>
            <div className='portfolio__link'>
-            <a href="https://github.com/Thienansjstar/Jump-man" className='btn' target='__blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'
+            <a href="https://github.com/Thienansjstar/tower-defense" className='btn' target='__blank'>Github</a>
+            <a href="https://calcurush.herokuapp.com/play" className='btn btn-primary'
              target='__blank'>live demo</a>
-            </div>
+            </div>  
         </article>
         <article className='portfolio__items'>
           <div className="portfolio__item-video1"> 
@@ -50,7 +50,7 @@ const portfolio = () => {
             <h4>React</h4>
            <div className='portfolio__link'>
             <a href="https://github.com/Thienansjstar/tt" className='btn' target='__blank'>Github</a>
-            <a href="https://github.com" className='btn btn-primary'
+            <a href="https://thienansjstar.github.io/TT/" className='btn btn-primary'
              target='__blank'>live demo</a>
             </div>
         </article>
